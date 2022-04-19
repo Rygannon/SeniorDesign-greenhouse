@@ -124,4 +124,3 @@ ttk.Button(win, text="Humidity", command=hum_win).pack()
 ttk.Button(win, text="Soil Levels", command=soil_win).pack()
 
 win.mainloop()
-print("Is it running")
